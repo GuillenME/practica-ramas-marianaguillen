@@ -1,2 +1,2 @@
-function saludar() { return 'Hola desde main'; }
+function saludar() { return 'Hola desde ambas ramas'; }
 function validarEmail(email) { return email.includes('@'); }
